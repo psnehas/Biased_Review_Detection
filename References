@@ -1,7 +1,17 @@
 
-Text mining Wiki
-https://en.wikipedia.org/wiki/Text_mining
-https://pdfs.semanticscholar.org/3722/40da2a416abfb406426af71f084c988ff7d9.pdf
+- Text mining Wiki
+  https://en.wikipedia.org/wiki/Text_mining
+  https://pdfs.semanticscholar.org/3722/40da2a416abfb406426af71f084c988ff7d9.pdf
 
-TF-IDF code for keyword detection:
-https://www.freecodecamp.org/news/how-to-process-textual-data-using-tf-idf-in-python-cd2bbc0a94a3/
+- TF-IDF code for keyword detection:
+  https://www.freecodecamp.org/news/how-to-process-textual-data-using-tf-idf-in-python-cd2bbc0a94a3/
+
+- IEEE/ACM papers:
+  Detecting Fake Reviews Utilizing Semantic and Emotion Model - https://ieeexplore-ieee-org.libaccess.sjlibrary.org/document/7726174
+  Computationally Detecting and Quantifying the Degree of Bias in Sentence-Level Text of News Stories - https://pdfs.semanticscholar.org/3722/40da2a416abfb406426af71f084c988ff7d9.pdf
+  https://ieeexplore-ieee-org.libaccess.sjlibrary.org/document/7726174
+  Review Spam Detection - https://dl.acm.org/citation.cfm?id=1242759
+  
+- code references for methodologies:
+  https://stackoverflow.com/questions/38839924/how-to-combine-n-grams-into-one-vocabulary-in-spark
+  https://github.com/vsmolyakov/experiments_with_python/blob/master/chp01/ensemble_methods.ipynb
