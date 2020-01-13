@@ -14,7 +14,7 @@
 ### Data Analysis and Visualizations:
 ----------------------------------------
 #### Polarity of customer reviews:
-<img src = "https://github.com/psnehas/cmpe255_Biased_Review_Detection/blob/master/images/PolarityBiased.PNG" alt="Biased Data Polarity" width=350 height=350 ><img src = "https://github.com/psnehas/cmpe255_Biased_Review_Detection/blob/master/images/PolarityUnbiased.PNG" alt="Unbiased Data Polarity" width=350 height=350 >
+<img src = "https://github.com/psnehas/Biased_Review_Detection/blob/master/images/PolarityBiased.PNG" alt="Biased Data Polarity" width=350 height=350 ><img src = "https://github.com/psnehas/Biased_Review_Detection/blob/master/images/PolarityUnbiased.PNG" alt="Unbiased Data Polarity" width=350 height=350 >
 
 #### Word Count Distribution:
 <img src = "https://github.com/psnehas/Biased_Review_Detection/blob/master/images/WordCountDistBiased.PNG" alt="WordCount Distribution Biased" width=350 height=350><img src = "https://github.com/psnehas/Biased_Review_Detection/blob/master/images/WordCountDistUnbiased.PNG" alt="WordCount Distribution UnBiased" width=350 height=350>
