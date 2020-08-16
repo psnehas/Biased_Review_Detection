@@ -6,10 +6,10 @@
 - implemented ensemble meethods: Gradient Boosting, Extreme Gradient Boosting, Adaptive Boosting
 
 #### Team members:
-* Anjali Deshmukh
-* Aayushi Gupta
-* Sneha Patil
-* Vaibhav Gupta
+<a href="https://github.com/Anjali-Deshmukh/"> Anjali Deshmukh </a>
+<a href="https://github.com/aayu1990"> Aayushi Gupta </a>
+<a href="https://github.com/psnehas">Sneha Patil </a>
+<a href="https://github.com/vaibhav-gupta1911">Vaibhav Gupta </a>
 
 ### Data Analysis and Visualizations:
 ----------------------------------------
